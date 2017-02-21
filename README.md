@@ -15,3 +15,6 @@ Semua tugas harus di upload di [GITHUB](http://github.com) dengan menggunakan ac
 
 Catatan kuliah dapat di upload di : 
 [Catatan kuliah](https://github.com/handaga/Sistim-Informasi-Terdistribusi)
+
+# Tugas-01:  
+Cari artikel tentang  HTTP, tulis ulang menjadi satu halaman artikel dan upload di github.
