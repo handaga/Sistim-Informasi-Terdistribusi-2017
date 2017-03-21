@@ -1,6 +1,10 @@
 # Sistim-Informasi-Terdistribusi-2017
 Catatan kuliah semester GENAP 2016/2017
 
+
+## CONTOH KODE DARI BUKU REF DAPAT DI DOWNLOAD DI SINI 
+## [KODE PROGRAM](https://github.com/lornajane/PHP-Web-Services)
+
 ## Tujuan:
 
 Merancang dan mengembangkan sistem pertukaran informasi antar unit informasi. Unit informasi yang dimaksud adalah semua perangkat yang dapat menghasilkan informasi dan atau memerlukan informasi.  Diimplementasikan dengan menggunakan teknologi web services yang dibangun dengen menggunakan bahasa pemrogramman php/python.
