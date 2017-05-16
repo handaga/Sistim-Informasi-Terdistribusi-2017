@@ -2,6 +2,22 @@
 Catatan kuliah semester GENAP 2016/2017
 
 
+## Assigmet 1: (international Class)
+
+  Create a webservice using tree strategi (RPC, SOAP, & REST), 
+  Information about STUDENT PROFILE (MySQL),
+  Script using php.
+
+  Create LOCALLY (XAMPP) 
+  Hint: download example code from 
+
+  http://github.com/lornajane
+  Chapter 7 & 8
+
+  Your job is to replace the databse connection from locale file to MySQL 
+
+
+
 ## CONTOH KODE DARI BUKU REF DAPAT DI DOWNLOAD DI SINI 
 ## [KODE PROGRAM](https://github.com/lornajane/PHP-Web-Services)
 
