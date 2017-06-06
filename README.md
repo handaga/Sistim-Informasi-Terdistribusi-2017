@@ -2,6 +2,19 @@
 Catatan kuliah semester GENAP 2016/2017
 
 
+## Tugas-2: ====================
+
+Membuat aplikasi layanan informasi akademik sederhana (Mhs, Matakuliah, KRS, daftar Presensi)
+dengan menggnuakan teknologi  REST, RPC dan SOAP. Lebih diutamakan teknikologi REST
+
+contoh data dapat di ambil dari forlap (http://forlap.dikti.go.id)
+
+Dikerjakan kelompok, setiap kelompok terdiri dari 2 anggota, boleh dikerjakan sendiri
+
+=====================================================================
+
+
+
 ## Assigmet 1: (international Class)
 
   Create a webservice using tree strategi (RPC, SOAP, & REST), 
