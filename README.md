@@ -6,8 +6,11 @@ Catatan kuliah semester GENAP 2016/2017
 
 Membuat aplikasi layanan informasi akademik sederhana (Mhs, Matakuliah, KRS, daftar Presensi)
 dengan menggnuakan teknologi  REST, RPC dan SOAP. Lebih diutamakan teknikologi REST
+Format OUTPUT dalam bentuk JSON
+
 
 contoh data dapat di ambil dari forlap (http://forlap.dikti.go.id)
+
 
 Dikerjakan kelompok, setiap kelompok terdiri dari 2 anggota, boleh dikerjakan sendiri
 
